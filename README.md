@@ -5,11 +5,17 @@ Bu proje Ravza Ebrar Ekici tarafından, Murat Yücedağ tarafından verilen "C# 
 
 
 Kullanılan Teknolojiler ve Uygulamalar
+
 🎗C#
+
 🎗Windows Forms
+
 🎗Microsoft SQL Server
+
 🎗LINQ
+
 🎗Entity Framework
+
 
 login
 
