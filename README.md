@@ -12,6 +12,7 @@ Kullanılan Teknolojiler ve Uygulamalar
 🎗Entity Framework
 
 login
+
 <img width="309" alt="a" src="https://github.com/user-attachments/assets/12201de4-aeb9-4ae4-b445-9ec1ba26ea62" />
 
 
