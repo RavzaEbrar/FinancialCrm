@@ -16,13 +16,13 @@ login
 <img width="309" alt="a" src="https://github.com/user-attachments/assets/12201de4-aeb9-4ae4-b445-9ec1ba26ea62" />
 
 
-
+---------------------------------------------------------------------
 Kategoriler
 
 <img width="619" alt="b" src="https://github.com/user-attachments/assets/975cf1b2-534a-4d59-973a-d8c205b1df8a" />
 
 
-
+------------------------------------------------------------------------
 Bankalar
 
 <img width="622" alt="c" src="https://github.com/user-attachments/assets/729cdc20-37da-4967-a7fe-436796393f17" />
